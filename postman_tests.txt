@@ -1,0 +1,15 @@
+# URL de teste da API do Open Weather 
+
+url: https://api.openweathermap.org/data/3.0/onecall?lat=33.44&lon=-94.04&appid=a666087d339b3c675db1c8b86f7003f2
+
+lat: 33.44
+lon: -94.04
+appind: a666087d339b3c675db1c8b86f7003f2
+
+# Geocoding API - API para buscar a latitude e longitude do local informado no input
+
+url: http://api.openweathermap.org/geo/1.0/direct?q=London&limit=1&appid=a666087d339b3c675db1c8b86f7003f2
+
+q: London
+limit: 1
+appid: a666087d339b3c675db1c8b86f7003f2
